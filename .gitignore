@@ -102,3 +102,4 @@ ENV/
 
 # Kaggle
 submission.csv
+*.pkl
