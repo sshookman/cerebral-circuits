@@ -1,0 +1,3 @@
+spells:
+- name: run
+  cmd: jupyter notebook
