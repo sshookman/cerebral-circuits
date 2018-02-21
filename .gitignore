@@ -103,3 +103,5 @@ ENV/
 # Kaggle
 submission.csv
 *.pkl
+*.mp4
+*.DS_Store
