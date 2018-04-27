@@ -19,6 +19,8 @@ The kaggle notebooks are designed for specific competitions on Kaggle, and are f
 ### Study
 The study notebooks are meant for taking notes and following along with courses or other instructional material. These are created for the sake learning.
 
+[Hands-On ML Repo](https://github.com/ageron/handson-ml)
+
 ## Running Jupyter
 You can start up the Jupyter notebooks from the root directory of the repo with wither of the following commands.
 ```
